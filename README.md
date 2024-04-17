@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cruznunez&mode=weekly)](https://git.io/streak-stats)
+Github Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=cruznunez&mode=weekly&card_width=600)](https://git.io/streak-stats)

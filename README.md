@@ -85,4 +85,5 @@ cool social buttons and code description, short and sweet: https://github.com/Th
 basic but good profile: https://github.com/martonlederer/martonlederer
 for cool stats: https://github.com/anmol098/waka-readme-stats
 cool tech badges: https://github.com/adamalston/adamalston/blob/master/README.md
+many readmes: https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#game-mode-
 -->

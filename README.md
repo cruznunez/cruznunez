@@ -63,9 +63,9 @@ Top languages does not indicate my skill level or anything like that. It is just
 
 ### Hobbies
 
-![Lifting](https://img.shields.io/badge/-💪🏽%20Lifting-000)
-![Photography](https://img.shields.io/badge/-📸%20Photography-000)
-![Travel](https://img.shields.io/badge/-✈️%20Travel-000)
+![Lifting](https://img.shields.io/badge/💪🏽_Lifting-000)
+![Photography](https://img.shields.io/badge/📸_Photography-000)
+![Travel](https://img.shields.io/badge/✈️_Travel-000)
 
 
 ### Social Media

@@ -70,7 +70,9 @@ Top languages does not indicate my skill level or anything like that. It is just
 
 ### Social Media
 
-[![](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/cruznunez/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/cruznunez/)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-000?&logo=stackoverflow)](https://stackoverflow.com/users/4812050/cruz-nunez)
+
 
 
 <!-- <p align="right"><img src="https://komarev.com/ghpvc/?username=cruznunez&label=Profile%20views&color=0e75b6&style=flat" alt="CruzNunez"/></p> -->

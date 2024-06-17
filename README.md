@@ -35,7 +35,7 @@ Full-stack latino developer creating awesome stuff 🚀
 
 ![Rails](https://img.shields.io/badge/-Rails-000?&logo=rubyonrails&logoColor=CD0001)
 ![D3.js](https://img.shields.io/badge/-D3.js-000?&logo=d3dotjs)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices&logoColor=F90)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=4A3F8F)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Google](https://img.shields.io/badge/-Google-000?&logo=Google)

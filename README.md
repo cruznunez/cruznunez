@@ -34,6 +34,7 @@ Full-stack latino developer creating awesome stuff 🚀
 ### Technologies
 
 ![Rails](https://img.shields.io/badge/-Rails-000?&logo=rubyonrails&logoColor=CD0001)
+![Turbo](https://img.shields.io/badge/-Turbo-000?&logo=turbo)
 ![D3.js](https://img.shields.io/badge/-D3.js-000?&logo=d3dotjs)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices&logoColor=F90)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=4A3F8F)

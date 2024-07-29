@@ -76,19 +76,12 @@ Top languages does not indicate my skill level or anything like that. It is just
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/cruznunez/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-000?&logo=stackoverflow)](https://stackoverflow.com/users/4812050/cruz-nunez)
 
+### Portfolio By Year
 
-
-<!-- <p align="right"><img src="https://komarev.com/ghpvc/?username=cruznunez&label=Profile%20views&color=0e75b6&style=flat" alt="CruzNunez"/></p> -->
-
-</a>
-
-<!-- 
-cool readme's Here
-https://github.com/swyxio/swyxio
-ruby script action: https://github.com/mscoutermarsh/mscoutermarsh
-cool social buttons and code description, short and sweet: https://github.com/Thaiane/Thaiane
-basic but good profile: https://github.com/martonlederer/martonlederer
-for cool stats: https://github.com/anmol098/waka-readme-stats
-cool tech badges: https://github.com/adamalston/adamalston/blob/master/README.md
-many readmes: https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#game-mode-
--->
+#### 2024
+###### Feb 15
+- Created [Rails Security Quickstart Guide](https://github.com/CodeTheDream/CTD_guidelines/blob/main/security_rails_quickstart.md) <!-- Feb 15 - Jul 24, 2024 -->
+###### Apr 4
+- Contributed [3 PRs](https://github.com/search?q=org%3ACity-Bureau+author%3Acruznunez&type=pullrequests) to [City Bureau](https://github.com/City-Bureau) <!-- Apr 4 - Apr 10, 2024 -->
+###### Apr—Jul
+- Worked on NCJC Outage Project <!-- Apr 11, 2024 - Jul 1, 2024 -->

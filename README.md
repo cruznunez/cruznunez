@@ -79,9 +79,21 @@ Top languages does not indicate my skill level or anything like that. It is just
 ### Portfolio By Year
 
 #### 2024
-###### Feb 15
+###### February
 - Created [Rails Security Quickstart Guide](https://github.com/CodeTheDream/CTD_guidelines/blob/main/security_rails_quickstart.md) <!-- Feb 15 - Jul 24, 2024 -->
-###### Apr 4
-- Contributed [3 PRs](https://github.com/search?q=org%3ACity-Bureau+author%3Acruznunez&type=pullrequests) to [City Bureau](https://github.com/City-Bureau) <!-- Apr 4 - Apr 10, 2024 -->
-###### Apr—Jul
+###### April
+- Developed [3 scrapers](https://github.com/search?q=org%3ACity-Bureau+author%3Acruznunez&type=pullrequests) for [City Bureau](https://github.com/City-Bureau) to track important local meetings and support journalism <!-- Apr 4 - Apr 10, 2024 -->
+###### April—July
 - Worked on NCJC Outage Project <!-- Apr 11, 2024 - Jul 1, 2024 -->
+
+#### 2023
+###### April
+- Accepted [NEXT TECH Award](https://codethedream.org/code-the-dream-senior-developer-cruz-nunez-wins-next-tech-award-2/) for excellence in technology and innovation
+###### June
+- Deployed my first child
+###### October
+- Began performing security audits on CTD web apps <!-- Oct 17, 2023 - Jun 7, 2024 -->
+- Began working on Datos <!-- Oct 19, 2023 -->
+###### November
+- Created [CTD Security Guidelines](https://github.com/CodeTheDream/CTD_guidelines/blob/main/security_guidelines.md) <!-- Nov 16, 2023 - Feb 15, 2024 -->
+

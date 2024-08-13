@@ -87,13 +87,44 @@ Top languages does not indicate my skill level or anything like that. It is just
 - Worked on NCJC Outage Project <!-- Apr 11, 2024 - Jul 1, 2024 -->
 
 #### 2023
+- Reviewed 147 PRs
+- Continued to manage developer teams and lead the implementation of key features for Vamos and Oye.
+###### January
+- Led development for Vamos' Contact Importer feature <!-- Jan 12, 2023: https://github.com/CodeTheDream/rsites-api/pull/1001 -->
+- Led development for Oye's Preferred Language feature <!-- Jan 20, 2023: https://github.com/CodeTheDream/oyetext-backend/pull/126 -->
+###### February
+- Led development on Vamos for Site Histories feature <!-- Feb 20, 2023: https://github.com/CodeTheDream/rsites-api/pull/955 -->
 ###### April
-- Accepted [NEXT TECH Award](https://codethedream.org/code-the-dream-senior-developer-cruz-nunez-wins-next-tech-award-2/) for excellence in technology and innovation
+- Accepted [NEXT TECH Award](https://codethedream.org/code-the-dream-senior-developer-cruz-nunez-wins-next-tech-award-2/) for excellence in technology and innovation <!-- Apr 20, 2023 -->
 ###### June
-- Deployed my first child
+- Deployed my first child <!-- Jun 24, 2023 -->
 ###### October
 - Began performing security audits on CTD web apps <!-- Oct 17, 2023 - Jun 7, 2024 -->
 - Began working on Datos <!-- Oct 19, 2023 -->
 ###### November
 - Created [CTD Security Guidelines](https://github.com/CodeTheDream/CTD_guidelines/blob/main/security_guidelines.md) <!-- Nov 16, 2023 - Feb 15, 2024 -->
 
+#### 2023
+- Reviewed 147 PRs
+- Continued to manage developer teams and lead the implementation of key features for Vamos and Oye.
+- Highlights
+  - **Jan**: Deployed Vamos' Contact Importer feature and Oye's Preferred Language feature <!-- Jan 12, 2023: https://github.com/CodeTheDream/rsites-api/pull/1001 --><!-- Jan 20, 2023: https://github.com/CodeTheDream/oyetext-backend/pull/126 -->
+  - **Feb**: Deployed Site Histories feature in Vamos <!-- Feb 20, 2023: https://github.com/CodeTheDream/rsites-api/pull/955 -->
+  - **Apr**: Accepted [NEXT TECH Award](https://codethedream.org/code-the-dream-senior-developer-cruz-nunez-wins-next-tech-award-2/) for excellence in technology and innovation <!-- Apr 20, 2023 -->
+  - **Jun**: Deployed my first child <!-- Jun 24, 2023 -->
+  - **Oct**: 
+    - Began performing security audits on CTD web apps <!-- Oct 17, 2023 - Jun 7, 2024 -->
+    - Began working on Datos <!-- Oct 19, 2023 -->
+  - **Nov**: Created [CTD Security Guidelines](https://github.com/CodeTheDream/CTD_guidelines/blob/main/security_guidelines.md) <!-- Nov 16, 2023 - Feb 15, 2024 -->
+
+#### 2022
+- Reviewed 314 PRs
+- Continued to manage developer teams and lead the implementation of key features for Vamos and Oye.
+  ###### Highlights
+  - **Feb**: Optimized linter to finish 12.5x faster and run consistently to save time during review process <!-- Feb 1, 2022 -->
+  - **Mar**: Added automated review labels to understand PR status faster and simplify review process <!-- Mar 18, 2022: https://github.com/CodeTheDream/rsites-api/pull/721 -->
+  - **Apr**: Improve PR template to simplify QA reviewer process
+  <!-- Apr 12, 2022: https://github.com/CodeTheDream/rsites-api/pull/749 -->
+  - **Oct**: Deployed Oye's External ID feature <!-- Oct 25, 2022: https://github.com/CodeTheDream/oyetext-backend/pull/159 -->
+  - **Nov**: Led the development of Oye's Broadcast Scheduling feature <!-- Nov 8, 2022: https://github.com/CodeTheDream/oyetext-backend/pull/111, https://github.com/CodeTheDream/oyetext-backend/pull/142 -->
+  - **Dec**: Improve Redis configuration for Vamos review apps to reduce costs <!-- Dec 20, 2022: https://github.com/CodeTheDream/rsites-api/pull/620 -->

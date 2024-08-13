@@ -49,8 +49,6 @@ Passionate about performance, design, and mentoring 🚀
 | [![GitHub Streak](https://streak-stats.demolab.com?user=cruznunez&mode=weekly&card_width=600)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cruznunez&layout=compact&langs_count=4) |
 | ------------- | ------------- |
 
-*Note: Stats are from public repos only.*
-
 <!-- 
 Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 -->

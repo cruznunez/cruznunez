@@ -105,11 +105,11 @@ Top languages does not indicate my skill level or anything like that. It is just
 - Reviewed 314 PRs
 - Continued to manage developer teams and lead the implementation of key features for Vamos and Oye.
 - Highlights
-  - **Feb**: Optimized linter to finish 12.5x faster and run consistently to save time during review process <!-- Feb 1, 2022 -->
-  - **Mar**: Added automated review labels to understand PR status faster and simplify review process <!-- Mar 18, 2022: https://github.com/CodeTheDream/rsites-api/pull/721 -->
-  - **Apr**: Improve PR template to simplify QA reviewer process
+  - **Feb** – Optimized linter to finish 12.5x faster and run consistently to save time during review process <!-- Feb 1, 2022 -->
+  - **Mar** – Added automated review labels to understand PR status faster and simplify review process <!-- Mar 18, 2022: https://github.com/CodeTheDream/rsites-api/pull/721 -->
+  - **Apr** – Improve PR template to simplify QA reviewer process
   <!-- Apr 12, 2022: https://github.com/CodeTheDream/rsites-api/pull/749 -->
-  - **Oct**: Deployed Oye's External ID feature <!-- Oct 25, 2022: https://github.com/CodeTheDream/oyetext-backend/pull/159 -->
-  - **Nov**: Led the development of Oye's Broadcast Scheduling feature <!-- Nov 8, 2022: https://github.com/CodeTheDream/oyetext-backend/pull/111, https://github.com/CodeTheDream/oyetext-backend/pull/142 -->
-  - **Nov**: Deployed Oye's Broadcast Scheduling feature <!-- Nov 8, 2022: https://github.com/CodeTheDream/oyetext-backend/pull/111, https://github.com/CodeTheDream/oyetext-backend/pull/142 -->
-  - **Dec**: Improve Redis configuration for Vamos review apps to reduce costs <!-- Dec 20, 2022: https://github.com/CodeTheDream/rsites-api/pull/620 -->
+  - **Oct** – Deployed Oye's External ID feature <!-- Oct 25, 2022: https://github.com/CodeTheDream/oyetext-backend/pull/159 -->
+  - **Nov** – Led the development of Oye's Broadcast Scheduling feature <!-- Nov 8, 2022: https://github.com/CodeTheDream/oyetext-backend/pull/111, https://github.com/CodeTheDream/oyetext-backend/pull/142 -->
+  - **Nov** – Deployed Oye's Broadcast Scheduling feature <!-- Nov 8, 2022: https://github.com/CodeTheDream/oyetext-backend/pull/111, https://github.com/CodeTheDream/oyetext-backend/pull/142 -->
+  - **Dec** – Improve Redis configuration for Vamos review apps to reduce costs <!-- Dec 20, 2022: https://github.com/CodeTheDream/rsites-api/pull/620 -->

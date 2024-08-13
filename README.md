@@ -90,16 +90,16 @@ Top languages does not indicate my skill level or anything like that. It is just
 - Reviewed 147 PRs
 - Continued to manage developer teams and lead the implementation of key features for Vamos and Oye.
 - Highlights
-  - **Jan** -  
+  - **Jan** –  
     - Deployed Vamos' Contact Importer feature <!-- Jan 12, 2023: https://github.com/CodeTheDream/rsites-api/pull/1001 -->
     - Deployed Oye's Preferred Language feature <!-- Jan 20, 2023: https://github.com/CodeTheDream/oyetext-backend/pull/126 -->
-  - **Feb** - Deployed Vamos' Site Histories feature <!-- Feb 20, 2023: https://github.com/CodeTheDream/rsites-api/pull/955 -->
-  - **Apr** - Accepted [NEXT TECH Award](https://codethedream.org/code-the-dream-senior-developer-cruz-nunez-wins-next-tech-award-2/) for excellence in technology and innovation <!-- Apr 20, 2023 -->
-  - **Jun** - Deployed my first child <!-- Jun 24, 2023 -->
-  - **Oct** - 
+  - **Feb** – Deployed Vamos' Site Histories feature <!-- Feb 20, 2023: https://github.com/CodeTheDream/rsites-api/pull/955 -->
+  - **Apr** – Accepted [NEXT TECH Award](https://codethedream.org/code-the-dream-senior-developer-cruz-nunez-wins-next-tech-award-2/) for excellence in technology and innovation <!-- Apr 20, 2023 -->
+  - **Jun** – Deployed my first child <!-- Jun 24, 2023 -->
+  - **Oct** – 
     - Began performing security audits on CTD web apps <!-- Oct 17, 2023 - Jun 7, 2024 -->
     - Began working on Datos <!-- Oct 19, 2023 -->
-  - **Nov** - Created [CTD Security Guidelines](https://github.com/CodeTheDream/CTD_guidelines/blob/main/security_guidelines.md) <!-- Nov 16, 2023 - Feb 15, 2024 -->
+  - **Nov** – Created [CTD Security Guidelines](https://github.com/CodeTheDream/CTD_guidelines/blob/main/security_guidelines.md) <!-- Nov 16, 2023 - Feb 15, 2024 -->
 
 #### 2022
 - Reviewed 314 PRs

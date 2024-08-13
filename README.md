@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 *Senior Developer at [Code the Dream](https://codethedream.org/)*
 <img src="https://codethedream.org/wp-content/uploads/2023/09/cropped-CTD_MarkOnly-1-192x192.png" width="20">
 
-Full-stack latino dev passionate about performance, design, and mentoring 🚀
+Passionate about performance, design, and mentoring 🚀
 
 ### Languages
 

@@ -110,7 +110,6 @@ Top languages does not indicate my skill level or anything like that. It is just
   - **Apr** – Improve PR template to simplify QA reviewer process
   <!-- Apr 12, 2022: https://github.com/CodeTheDream/rsites-api/pull/749 -->
   - **Oct** – Deployed Oye's External ID feature <!-- Oct 25, 2022: https://github.com/CodeTheDream/oyetext-backend/pull/159 -->
-  - **Nov** – Led the development of Oye's Broadcast Scheduling feature <!-- Nov 8, 2022: https://github.com/CodeTheDream/oyetext-backend/pull/111, https://github.com/CodeTheDream/oyetext-backend/pull/142 -->
   - **Nov** – Deployed Oye's Broadcast Scheduling feature <!-- Nov 8, 2022: https://github.com/CodeTheDream/oyetext-backend/pull/111, https://github.com/CodeTheDream/oyetext-backend/pull/142 -->
   - **Dec** – Improve Redis configuration for Vamos review apps to reduce costs <!-- Dec 20, 2022: https://github.com/CodeTheDream/rsites-api/pull/620 -->
 

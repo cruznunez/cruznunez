@@ -114,5 +114,12 @@ Top languages does not indicate my skill level or anything like that. It is just
   - **Dec** – Improve Redis configuration for Vamos review apps to reduce costs <!-- Dec 20, 2022: https://github.com/CodeTheDream/rsites-api/pull/620 -->
 
 #### 2021
-- Promoted to Senior Developer
 - Reviewed 81 PRs
+- Promoted to Senior Developer
+- Highlights
+  - **Mar** – Instituted automated review labels <!-- Mar 17 & 18, 2021 -->
+  - **Oct** – 
+    - Demo my personal project for the first time <!-- Oct 19 -->
+    - Work for Garbage Gears ends <!-- Oct 21 -->
+    - Begin managing Vamos <!-- Oct 21 -->
+  - **Nov** – Promoted to Senior Developer <!-- Nov 1 -->

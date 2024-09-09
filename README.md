@@ -123,3 +123,6 @@ Top languages does not indicate my skill level or anything like that. It is just
     - Work for Garbage Gears ends <!-- Oct 21 -->
     - Begin managing Vamos <!-- Oct 21 -->
   - **Nov** – Promoted to Senior Developer <!-- Nov 1 -->
+
+#### 2020
+- Started NC Fair Chance and Oye projects

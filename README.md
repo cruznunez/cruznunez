@@ -77,7 +77,7 @@ Top languages does not indicate my skill level or anything like that. It is just
 ### Portfolio By Year
 
 #### 2024
-- Audited 3 web apps
+- Audited 4 web apps
 - Lead developer on 2 projects
 - Collaborated with City Bureau, open source contribution.
 - Highlights

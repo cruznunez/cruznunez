@@ -125,4 +125,8 @@ Top languages does not indicate my skill level or anything like that. It is just
   - **Nov** – Promoted to Senior Developer <!-- Nov 1 -->
 
 #### 2020
-- Started NC Fair Chance and Oye projects
+- Started 2 projects that are still in production today
+- Managed a development team for the first time
+- Highlights
+  - **Feb** – Started NC Fair Chance and deployed License Restoration Feature <!-- Feb 12, 2020 -->
+  - **Jun** – Deployed OyeText MVP and became lead developer for Oye development team <!-- Jun 8, 2020 -->

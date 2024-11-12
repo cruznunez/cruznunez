@@ -79,11 +79,11 @@ Top languages does not indicate my skill level or anything like that. It is just
 #### 2024
 - Audited 4 web apps
 - Lead developer on 2 projects
-- Collaborated with City Bureau, open source contribution.
+- 11 open source contributions Collaborated with City Bureau.
 - Highlights
   - **Feb** – Created [Rails Security Quickstart Guide](https://github.com/CodeTheDream/CTD_guidelines/blob/main/security_rails_quickstart.md) <!-- Feb 15 - Jul 24, 2024 -->
-  - **Apr** – Developed [3 scrapers](https://github.com/search?q=org%3ACity-Bureau+author%3Acruznunez&type=pullrequests) for [City Bureau](https://github.com/City-Bureau) to track important local meetings and support journalism <!-- Apr 4 - Apr 10, 2024 -->
   - **Apr—Jul** – Worked on NCJC Outage Project <!-- Apr 11, 2024 - Jul 1, 2024 -->
+  - **Apr—Nov** – Developed [11 scrapers](https://github.com/search?q=org%3ACity-Bureau+author%3Acruznunez&type=pullrequests) for [City Bureau](https://github.com/City-Bureau) to track important local meetings and support journalism <!-- Apr 4 - Apr 10 | Sep 18 - Nov 8 -->
 
 #### 2023
 - Reviewed 147 PRs

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 *Senior Developer at [Code the Dream](https://codethedream.org/)*
 <img src="https://codethedream.org/wp-content/uploads/2023/09/cropped-CTD_MarkOnly-1-192x192.png" width="20">
 
-Passionate about performance, design, and mentoring 🚀
+Passionate about performance, security, and simplicity ⚡️
 
 ### Languages
 
@@ -71,7 +71,10 @@ Top languages does not indicate my skill level or anything like that. It is just
 
 ### Social Media
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/cruznunez/)
+<!-- from fontawesome 7 -->
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logoColor=0A66C2&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNjQwIj48cGF0aCBmaWxsPSIjMEE2NkMyIiBkPSJNMTYwIDk2QzEyNC43IDk2IDk2IDEyNC43IDk2IDE2MEw5NiA0ODBDOTYgNTE1LjMgMTI0LjcgNTQ0IDE2MCA1NDRMNDgwIDU0NEM1MTUuMyA1NDQgNTQ0IDUxNS4zIDU0NCA0ODBMNTQ0IDE2MEM1NDQgMTI0LjcgNTE1LjMgOTYgNDgwIDk2TDE2MCA5NnpNMTY1IDI2Ni4yTDIzMS41IDI2Ni4yTDIzMS41IDQ4MEwxNjUgNDgwTDE2NSAyNjYuMnpNMjM2LjcgMTk4LjVDMjM2LjcgMjE5LjggMjE5LjUgMjM3IDE5OC4yIDIzN0MxNzYuOSAyMzcgMTU5LjcgMjE5LjggMTU5LjcgMTk4LjVDMTU5LjcgMTc3LjIgMTc2LjkgMTYwIDE5OC4yIDE2MEMyMTkuNSAxNjAgMjM2LjcgMTc3LjIgMjM2LjcgMTk4LjV6TTQxMy45IDQ4MEw0MTMuOSAzNzZDNDEzLjkgMzUxLjIgNDEzLjQgMzE5LjMgMzc5LjQgMzE5LjNDMzQ0LjggMzE5LjMgMzM5LjUgMzQ2LjMgMzM5LjUgMzc0LjJMMzM5LjUgNDgwTDI3My4xIDQ4MEwyNzMuMSAyNjYuMkwzMzYuOCAyNjYuMkwzMzYuOCAyOTUuNEwzMzcuNyAyOTUuNEMzNDYuNiAyNzguNiAzNjguMyAyNjAuOSA0MDAuNiAyNjAuOUM0NjcuOCAyNjAuOSA0ODAuMyAzMDUuMiA0ODAuMyAzNjIuOEw0ODAuMyA0ODBMNDEzLjkgNDgweiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/cruznunez/) -->
+<!-- from simpleicons.io web archive jun 1, 2024 -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logoColor=0A66C2&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjMEE2NkMyIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=)](https://www.linkedin.com/in/cruznunez/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-000?&logo=stackoverflow)](https://stackoverflow.com/users/4812050/cruz-nunez)
 
 ### Portfolio By Year

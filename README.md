@@ -76,6 +76,18 @@ Top languages does not indicate my skill level or anything like that. It is just
 
 ### Portfolio By Year
 
+### 2025
+- Audited 8 web apps
+- Lead developer on 2 projects
+- Created web security tracker
+- Optimized DB performance for Datos
+  - 30x faster heatmap, 10x faster search compared to original app
+  - Learned
+    - covering indexes
+    - PostgresQL's `pg_stat_statements`
+    - SQL's `EXPLAIN ANALYZE`
+    - `\COPY (...) TO 'file.csv' WITH CSV HEADER;`
+
 #### 2024
 - Audited 4 web apps
 - Lead developer on 2 projects

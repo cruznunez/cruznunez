@@ -83,7 +83,7 @@ Top languages does not indicate my skill level or anything like that. It is just
 - Lead developer on 2 projects
 - Created web security tracker
 - Optimized DB performance for Datos
-  - 429x faster query, 22x faster web response after combining "50% progress" query
+  - 429x faster query, 22x faster web response after simplifying "50% progress" queries
   - 30x faster heatmap, 10x faster search compared to original app
   - Learned
     - covering indexes

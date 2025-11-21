@@ -79,17 +79,18 @@ Top languages does not indicate my skill level or anything like that. It is just
 ### Portfolio By Year
 
 ### 2025
-- Audited 8 web apps
-- Lead developer on 2 projects
-- Created web security tracker
-- Optimized DB performance for Datos
-  - 429x faster query, 22x faster web response after simplifying "50% progress" queries
-  - 30x faster heatmap, 10x faster search compared to original app
-  - Learned
-    - covering indexes
-    - PostgresQL's `pg_stat_statements`
-    - SQL's `EXPLAIN ANALYZE`
-    - `\COPY (...) TO 'file.csv' WITH CSV HEADER;`
+
+- Performance & Optimization
+  - Achieved blazingly fast DB performance for nationwide application, **Datos**, increasing query efficiency and user throughput.
+  - Reached **429x faster** queries, **22x faster** web responses by simplifying and refactoring complex *"50% progress"* queries
+  - Delivered a **30x faster heatmap** page and a **10x faster search** compared to original application
+  - Key tools: Used `pg_stat_statements` and `EXPLAIN ANALYZE` to pinpoint bottlenecks and implement solutions like **covering indexes**
+- Security
+  - Audited **8 web applications** and created a **custom security tracker** to monitor security across various applications and drive remediation.
+- Resilience & Production Support
+  - Handled and resolved critical production bugs **during peak traffic of 24K reqs/hour** (400 rpm), ensuring application stability and continuous uptime.
+- Led Lead developer on City Scrapers team and collobarated with City Bureau.
+- Guided development for the **City Scrapers team** in collaboration with City Bureau.
 
 #### 2024
 - Audited 4 web apps

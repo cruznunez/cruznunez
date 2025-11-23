@@ -80,12 +80,18 @@ Top languages does not indicate my skill level or anything like that. It is just
 
 - Performance & Optimization
   - Achieved blazingly fast DB speeds for a nationwide application, **Datos**, increasing query efficiency and user throughput.
-  - Masterfully implemented a **covering index** and eliminated costly heap scans, leading to lightning fast speeds: **85,000x faster** DB speeds, and **22x faster** web response. <sup>[[Datos #72]](https://github.com/CodeTheDream/datos-main/pull/72)</sup>
-  - Simplified complex *"50% progress"* searches and reached **429x faster** queries and **22x faster** web responses. <sup>[[Datos #77]](https://github.com/CodeTheDream/datos-main/pull/77)</sup>
-  - Collapsed thousands of N+1 queries and achieved 35x faster CSV export speeds. <sup>[[Datos #75]](https://github.com/CodeTheDream/datos-main/pull/75)</sup>
-  - Eliminated costly, sequential scan on initial pages and accelerated initial page load by **21x**. <sup>[[Datos #71]](https://github.com/CodeTheDream/datos-main/pull/71)</sup>
-  - Eliminated unnecessary state query to **save 655ms** *per request*. <sup>[[Datos #70]](https://github.com/CodeTheDream/datos-main/pull/70)</sup>
-  - Reduced columns fetched from 150 to 7 in `SELECT` clause and saw **2.1x faster** queries. <sup>[[Datos #69]](https://github.com/CodeTheDream/datos-main/pull/69)</sup>
+  - Deployed a specialized **covering index** and achieved instantaneous index-only scans, **85,000x faster** queries, and **22x faster** web responses.
+  <sup>[[Datos #72]](https://github.com/CodeTheDream/datos-main/pull/72)</sup>
+  - Simplified complex *"50% progress"* searches and reached lightning-fast **429x faster** queries and **22x faster** web responses.
+  <sup>[[Datos #77]](https://github.com/CodeTheDream/datos-main/pull/77)</sup>
+  - Collapsed thousands of N+1 queries and achieved **35x faster** CSV export speeds. 
+  <sup>[[Datos #75]](https://github.com/CodeTheDream/datos-main/pull/75)</sup>
+  - Eliminated costly, sequential scan on initial pages and accelerated initial page load by **21x**. 
+  <sup>[[Datos #71]](https://github.com/CodeTheDream/datos-main/pull/71)</sup>
+  - Eliminated unnecessary state query to **save 655ms** *per request*. 
+  <sup>[[Datos #70]](https://github.com/CodeTheDream/datos-main/pull/70)</sup>
+  - Reduced columns fetched from 150 to 7 in `SELECT` clause and saw up to **2.1x faster** queries. 
+  <sup>[[Datos #69]](https://github.com/CodeTheDream/datos-main/pull/69)</sup>
   - Delivered a **30x faster heatmap** page and a **10x faster search** compared to original application.
   - Key tools: Used `pg_stat_statements` and `EXPLAIN ANALYZE` to pinpoint bottlenecks and implement solutions like **covering indexes**
 - Security

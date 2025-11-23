@@ -70,8 +70,6 @@ Top languages does not indicate my skill level or anything like that. It is just
 
 ### Social Media
 
-<!-- from fontawesome 7 -->
-<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logoColor=0A66C2&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNjQwIj48cGF0aCBmaWxsPSIjMEE2NkMyIiBkPSJNMTYwIDk2QzEyNC43IDk2IDk2IDEyNC43IDk2IDE2MEw5NiA0ODBDOTYgNTE1LjMgMTI0LjcgNTQ0IDE2MCA1NDRMNDgwIDU0NEM1MTUuMyA1NDQgNTQ0IDUxNS4zIDU0NCA0ODBMNTQ0IDE2MEM1NDQgMTI0LjcgNTE1LjMgOTYgNDgwIDk2TDE2MCA5NnpNMTY1IDI2Ni4yTDIzMS41IDI2Ni4yTDIzMS41IDQ4MEwxNjUgNDgwTDE2NSAyNjYuMnpNMjM2LjcgMTk4LjVDMjM2LjcgMjE5LjggMjE5LjUgMjM3IDE5OC4yIDIzN0MxNzYuOSAyMzcgMTU5LjcgMjE5LjggMTU5LjcgMTk4LjVDMTU5LjcgMTc3LjIgMTc2LjkgMTYwIDE5OC4yIDE2MEMyMTkuNSAxNjAgMjM2LjcgMTc3LjIgMjM2LjcgMTk4LjV6TTQxMy45IDQ4MEw0MTMuOSAzNzZDNDEzLjkgMzUxLjIgNDEzLjQgMzE5LjMgMzc5LjQgMzE5LjNDMzQ0LjggMzE5LjMgMzM5LjUgMzQ2LjMgMzM5LjUgMzc0LjJMMzM5LjUgNDgwTDI3My4xIDQ4MEwyNzMuMSAyNjYuMkwzMzYuOCAyNjYuMkwzMzYuOCAyOTUuNEwzMzcuNyAyOTUuNEMzNDYuNiAyNzguNiAzNjguMyAyNjAuOSA0MDAuNiAyNjAuOUM0NjcuOCAyNjAuOSA0ODAuMyAzMDUuMiA0ODAuMyAzNjIuOEw0ODAuMyA0ODBMNDEzLjkgNDgweiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/cruznunez/) -->
 <!-- from simpleicons.io web archive jun 1, 2024 -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logoColor=0A66C2&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjMEE2NkMyIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=)](https://www.linkedin.com/in/cruznunez/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-000?&logo=stackoverflow)](https://stackoverflow.com/users/4812050/cruz-nunez)
@@ -81,9 +79,14 @@ Top languages does not indicate my skill level or anything like that. It is just
 ### 2025
 
 - Performance & Optimization
-  - Achieved blazingly fast DB performance for nationwide application, **Datos**, increasing query efficiency and user throughput.
-  - Reached **429x faster** queries, **22x faster** web responses by simplifying and refactoring complex *"50% progress"* queries
-  - Delivered a **30x faster heatmap** page and a **10x faster search** compared to original application
+  - Achieved blazingly fast DB speeds for a nationwide application, **Datos**, increasing query efficiency and user throughput.
+  - Masterfully implemented a **covering index** and eliminated costly heap scans, leading to lightning fast speeds: **85,000x faster** DB speeds, and **22x faster** web response. <sup>[[Datos #72]](https://github.com/CodeTheDream/datos-main/pull/72)</sup>
+  - Simplified complex *"50% progress"* searches and reached **429x faster** queries and **22x faster** web responses. <sup>[[Datos #77]](https://github.com/CodeTheDream/datos-main/pull/77)</sup>
+  - Collapsed thousands of N+1 queries and achieved 35x faster CSV export speeds. <sup>[[Datos #75]](https://github.com/CodeTheDream/datos-main/pull/75)</sup>
+  - Eliminated costly, sequential scan on initial pages and accelerated initial page load by **21x**. <sup>[[Datos #71]](https://github.com/CodeTheDream/datos-main/pull/71)</sup>
+  - Eliminated unnecessary state query to **save 655ms** *per request*. <sup>[[Datos #70]](https://github.com/CodeTheDream/datos-main/pull/70)</sup>
+  - Reduced columns fetched from 150 to 7 in `SELECT` clause and saw **2.1x faster** queries. <sup>[[Datos #69]](https://github.com/CodeTheDream/datos-main/pull/69)</sup>
+  - Delivered a **30x faster heatmap** page and a **10x faster search** compared to original application.
   - Key tools: Used `pg_stat_statements` and `EXPLAIN ANALYZE` to pinpoint bottlenecks and implement solutions like **covering indexes**
 - Security
   - Audited **8 web applications** and created a **custom security tracker** to monitor security across various applications and drive remediation.

@@ -78,28 +78,31 @@ Top languages does not indicate my skill level or anything like that. It is just
 
 ### 2025
 
-- Performance & Optimization
-  - Achieved blazingly fast DB speeds for a nationwide application, **Datos**, increasing query efficiency and user throughput.
-  - Deployed a specialized **covering index** and achieved instantaneous index-only scans, **85,000x faster** queries, and **22x faster** web responses.
-  <sup>[[Datos #72]](https://github.com/CodeTheDream/datos-main/pull/72)</sup>
-  - Simplified complex *"50% progress"* searches and reached lightning-fast **429x faster** queries and **22x faster** web responses.
-  <sup>[[Datos #77]](https://github.com/CodeTheDream/datos-main/pull/77)</sup>
-  - Collapsed thousands of N+1 queries and achieved **35x faster** CSV export speeds. 
-  <sup>[[Datos #75]](https://github.com/CodeTheDream/datos-main/pull/75)</sup>
-  - Eliminated costly, sequential scan on initial pages and accelerated initial page load by **21x**. 
-  <sup>[[Datos #71]](https://github.com/CodeTheDream/datos-main/pull/71)</sup>
-  - Eliminated unnecessary state query to **save 655ms** *per request*. 
-  <sup>[[Datos #70]](https://github.com/CodeTheDream/datos-main/pull/70)</sup>
-  - Reduced columns fetched from 150 to 7 in `SELECT` clause and saw up to **2.1x faster** queries. 
-  <sup>[[Datos #69]](https://github.com/CodeTheDream/datos-main/pull/69)</sup>
-  - Delivered a **30x faster heatmap** page and a **10x faster search** compared to original application.
-  - Key tools: Used `pg_stat_statements` and `EXPLAIN ANALYZE` to pinpoint bottlenecks and implement solutions like **covering indexes**
-- Security
-  - Audited **8 web applications** and created a **custom security tracker** to monitor security across various applications and drive remediation.
-- Resilience & Production Support
-  - Handled and resolved critical production bugs **during peak traffic of 24K reqs/hour** (400 rpm), ensuring application stability and continuous uptime.
-- Led Lead developer on City Scrapers team and collobarated with City Bureau.
-- Guided development for the **City Scrapers team** in collaboration with City Bureau.
+Performance & Optimization
+- Achieved blazingly fast DB speeds for a nationwide application, **Datos**, increasing query efficiency and user throughput.
+- Deployed a specialized **covering index** and achieved instantaneous index-only scans, **85,000x faster** queries, and **22x faster** web responses.
+<sup>[[Datos #72]](https://github.com/CodeTheDream/datos-main/pull/72)</sup>
+- Inlined costly subquery into lightning-fast main "50%" query, reaching **429x faster** queries and **22x faster** web responses.
+<sup>[[Datos #77]](https://github.com/CodeTheDream/datos-main/pull/77)</sup>
+- Collapsed thousands of N+1 queries and achieved **35x faster** CSV export speeds. 
+<sup>[[Datos #75]](https://github.com/CodeTheDream/datos-main/pull/75)</sup>
+- Eliminated costly, sequential scan on initial pages and accelerated initial page load by **21x**. 
+<sup>[[Datos #71]](https://github.com/CodeTheDream/datos-main/pull/71)</sup>
+- Eliminated unnecessary state query to **save 655ms** *per request*. 
+<sup>[[Datos #70]](https://github.com/CodeTheDream/datos-main/pull/70)</sup>
+- Reduced columns fetched from 150 to 7 in `SELECT` clause and saw up to **2.1x faster** queries. 
+<sup>[[Datos #69]](https://github.com/CodeTheDream/datos-main/pull/69)</sup>
+- Delivered a **30x faster heatmap** page and a **10x faster search** compared to original application.
+- Key tools: Used `pg_stat_statements` and `EXPLAIN ANALYZE` to pinpoint bottlenecks and implement solutions like **covering indexes**
+
+Security
+- Audited **8 web applications** and created a **custom security tracker** to monitor security across various applications and drive remediation.
+
+Resilience & Production Support
+- Handled and resolved critical production bugs **during peak traffic of 24K reqs/hour** (400 rpm), ensuring application stability and continuous uptime.
+
+Other
+- Guided development of 20+ scraper for the **City Scrapers team** in collaboration with City Bureau.
 
 #### 2024
 - Audited 4 web apps

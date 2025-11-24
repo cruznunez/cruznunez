@@ -90,7 +90,7 @@ Performance & Optimization
 <sup>[[Datos #71]](https://github.com/CodeTheDream/datos-main/pull/71)</sup>
 - Eliminated unnecessary state query to **save 655ms** *per request*. 
 <sup>[[Datos #70]](https://github.com/CodeTheDream/datos-main/pull/70)</sup>
-- Reduced columns fetched from 150 to 7 in `SELECT` clause and saw up to **2.1x faster** queries. 
+- Minimized columns fetched in `SELECT` clause from 150 to 7 and saw up to **2.1x faster** queries.
 <sup>[[Datos #69]](https://github.com/CodeTheDream/datos-main/pull/69)</sup>
 - Delivered a **30x faster heatmap** page and a **10x faster search** compared to original application.
 - Key tools: Used `pg_stat_statements` and `EXPLAIN ANALYZE` to pinpoint bottlenecks and implement solutions like **covering indexes**
